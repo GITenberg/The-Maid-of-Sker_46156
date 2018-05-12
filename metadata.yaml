@@ -1,0 +1,38 @@
+_repo: The-Maid-of-Sker_46156
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46156-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: "The Maid of Sker is a three-volume novel by R. D. Blackmore published\
+  \ in 1872. Set in the late 18th century, it unravels the mystery of a foundling\
+  \ child washed ashore upon the coast of Glamorganshire. It was Blackmore's next\
+  \ novel published after Lorna Doone although he had begun writing it 25 years earlier.\
+  \ Blackmore considered The Maid of Sker to be his best novel.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2014-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46156'
+  wikidata: Q16934398
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Wales -- Fiction'
+- !lcsh 'Romance fiction'
+- !lcc 'PR'
+title: The Maid of Sker
+url: http://www.gutenberg.org/ebooks/46156
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Maid_of_Sker
